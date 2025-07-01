@@ -1,0 +1,14 @@
+C:\Users\Alexandr\Desktop\ТестПроект1\KProject\bin\Debug\net9.0\KProject.exe
+C:\Users\Alexandr\Desktop\ТестПроект1\KProject\bin\Debug\net9.0\KProject.deps.json
+C:\Users\Alexandr\Desktop\ТестПроект1\KProject\bin\Debug\net9.0\KProject.runtimeconfig.json
+C:\Users\Alexandr\Desktop\ТестПроект1\KProject\bin\Debug\net9.0\KProject.dll
+C:\Users\Alexandr\Desktop\ТестПроект1\KProject\bin\Debug\net9.0\KProject.pdb
+C:\Users\Alexandr\Desktop\ТестПроект1\KProject\obj\Debug\net9.0\KProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\Desktop\ТестПроект1\KProject\obj\Debug\net9.0\KProject.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Desktop\ТестПроект1\KProject\obj\Debug\net9.0\KProject.AssemblyInfo.cs
+C:\Users\Alexandr\Desktop\ТестПроект1\KProject\obj\Debug\net9.0\KProject.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\ТестПроект1\KProject\obj\Debug\net9.0\KProject.dll
+C:\Users\Alexandr\Desktop\ТестПроект1\KProject\obj\Debug\net9.0\refint\KProject.dll
+C:\Users\Alexandr\Desktop\ТестПроект1\KProject\obj\Debug\net9.0\KProject.pdb
+C:\Users\Alexandr\Desktop\ТестПроект1\KProject\obj\Debug\net9.0\KProject.genruntimeconfig.cache
+C:\Users\Alexandr\Desktop\ТестПроект1\KProject\obj\Debug\net9.0\ref\KProject.dll
